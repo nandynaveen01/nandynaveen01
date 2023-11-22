@@ -25,3 +25,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandynaveen01&show_icons=true&theme=radical)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nandynaveen01&theme=radical" alt="GitHub Streak" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandynaveen01&layout=compact&theme=radical)
